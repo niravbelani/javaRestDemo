@@ -5,17 +5,21 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Online Shoppe</title>
+<script type="text/javascript">
+function openPage()
+{
+window.open("improvedJSP.jsp",dependent="no");
+}
+</script>
 </head>
-<body bgcolor="green">
-	<font align="center"><h2>Welcome to the Online Shoppe</h2>
-	</font>
+<body bgcolor="#000000" text="#0000ff">
+	<font align="center"><h2>Welcome to the Online Shoppe</h2> </font>
 	<div id="loginDiv">
-		<form method="post" action="ProductSearchServlet">
+		<form method="post" action="">
 			<table name="LoginTable" rows="4" Cols="2" border="0">
 				<tr>
 					<td>
-						<h3>Please Login:</h3>
-					</td>
+						<h3>Please Login:</h3></td>
 					<td></td>
 				</tr>
 				<tr>
@@ -29,7 +33,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td><input type="submit" value="Login">
+					<td><input type="submit" value="Login" onclick="openPage()">
 					</td>
 					<td></td>
 				</tr>

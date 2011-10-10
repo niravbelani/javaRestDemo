@@ -15,14 +15,15 @@
 
 	<xsl:template match="product_search_result">
 
-		<table border="0" width="80%">
+		<table border="1" width="80%">
 			<tr>
-				<th>Name</th>
-				<th>Orderable</th>
-				<th>Price</th>
-				<th>Image</th>
-				<th>Add to Cart</th>
+				<th><u><h3>Name</h3></u></th>
+				<th><u><h3>Orderable</h3></u></th>
+				<th><u><h3>Price</h3></u></th>
+				<th><u><h3>Image</h3></u></th>
+				<th><u><h3>Add to Cart</h3></u></th>
 			</tr>
+			
 			<xsl:for-each select="hits">
 				<xsl:for-each select="hit">
 					<tr>

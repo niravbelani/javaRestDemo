@@ -16,6 +16,7 @@ function openPage()
 <body bgcolor="#000000" text="#0000ff">
 
 <form method="get">
+<h4>Enter search Criteria:</h4>
  <input type="text" name="searchProduct" id="searchProduct">
  <input type="submit" onclick="openPage()" value="Search">
  <!-- <a href="javascript:openPage()">Show All Products</a>  -->
