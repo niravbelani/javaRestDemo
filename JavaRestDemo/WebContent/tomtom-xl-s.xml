@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product xmlns="http://xml.demandware.com/schemas/records/product/1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ats>100</ats>
+  <brand>TomTom</brand>
+  <id>tomtom-xl-s</id>
+  <image_groups>
+    <image_group>
+      <images>
+        <image>
+          <alt>TomTom XL S Portable GPS Unit, , large</alt>
+          <link>http://dw-webapi.dyndns-server.com/on/demandware.static/Demos-SiteGenesis-Site/Demos-electronics-catalog/default/v1313053428216/images/large/tomtom-xl-s.jpg</link>
+          <title><![CDATA[TomTom XL S Portable GPS Unit, ]]></title>
+        </image>
+      </images>
+      <view_type>large</view_type>
+    </image_group>
+    <image_group>
+      <images>
+        <image>
+          <alt>TomTom XL S Portable GPS Unit, , medium</alt>
+          <link>http://dw-webapi.dyndns-server.com/on/demandware.static/Demos-SiteGenesis-Site/Demos-electronics-catalog/default/v1313053428216/images/medium/tomtom-xl-s.jpg</link>
+          <title><![CDATA[TomTom XL S Portable GPS Unit, ]]></title>
+        </image>
+      </images>
+      <view_type>medium</view_type>
+    </image_group>
+    <image_group>
+      <images>
+        <image>
+          <alt>TomTom XL S Portable GPS Unit, , small</alt>
+          <link>http://dw-webapi.dyndns-server.com/on/demandware.static/Demos-SiteGenesis-Site/Demos-electronics-catalog/default/v1313053428216/images/small/tomtom-xl-s.jpg</link>
+          <title><![CDATA[TomTom XL S Portable GPS Unit, ]]></title>
+        </image>
+      </images>
+      <view_type>small</view_type>
+    </image_group>
+  </image_groups>
+  <name>TomTom XL S Portable GPS Unit</name>
+  <orderable>true</orderable>
+  <price>288.99</price>
+  <primary_category_id>electronics-gps-units</primary_category_id>
+  <short_description>Expand your horizons with the new TomTom ONE XL-S. The distinctive design combines an extra-wide 4.3 touchscreen and the power of GPS in a slim, lightweight device. Easily taken from car to car. Switch it on and go right out of the box. Just a few taps on the screen and the ONE XL-S does the rest. The crystal-clear display, 3D view and spoken turn-by-turn instructions help you find your way, worry free. Preloaded maps of the US and Canada and millions of points of interest enhance your traveling experience. No activation, no monthly fees, its that easy.</short_description>
+  <type>
+    <type_item>item</type_item>
+  </type>
+</product>
